@@ -1,6 +1,6 @@
 # KevgolViewTool
 
-> Host view methods for Rails apps"
+> Host view methods for Rails apps
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+'''ruby
+KevGolViewTool::Renderer.copyright 'Kevin Goltermann', "All Rights Reserved"
+'''
 
 ## Development
 
