@@ -20,9 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-'''ruby
+```ruby
 KevGolViewTool::Renderer.copyright 'Kevin Goltermann', "All Rights Reserved"
-'''
+```
 
 ## Development
 
